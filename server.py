@@ -133,9 +133,11 @@ async def handle(browser: WebSocket):
                             "message": evt.get("error", {}).get("message", "unknown"),
                         })
 
-            async with asyncio.TaskGroup() as tg:
-                tg.create_task(mic_to_openai())
-                tg.create_task(openai_to_browser())
+            await asyncio.gather(
+                mic_to_openai(),
+                openai_to_browser(),
+                return_exceptions=True,
+            )
 
     except WebSocketDisconnect:
         pass

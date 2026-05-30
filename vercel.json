@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/ws",
-      "destination": "https://PASTE_YOUR_RAILWAY_URL_HERE/ws"
+      "destination": "https://voice-bot-ayush.onrender.com/ws"
     }
   ]
 }
