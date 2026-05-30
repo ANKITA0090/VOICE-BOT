@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/ws",
+      "destination": "https://PASTE_YOUR_RAILWAY_URL_HERE/ws"
+    }
+  ]
+}

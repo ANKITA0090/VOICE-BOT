@@ -1,0 +1,228 @@
+=== AYUSH GAUTAM — PROFILE & INTERVIEW KNOWLEDGE BASE ===
+
+Patna, Bihar | ayushrajput1144@gmail.com | +91-87896 81146 | LinkedIn | LeetCode
+Education
+Vellore Institute of Technology – B.Tech, Information Technology Aug 2021 – Aug 2025
+CGPA: 8.79/10
+Gyan Niketan School – Senior Secondary (Science) 87% | 2021
+Gyan Niketan School – Secondary 93% | 2019
+Experience
+Application Builder – Mongoose August 2025 – Present
+Remote
+• Delivered key features for Barton Associates – Locum Connect, improving application responsiveness by 25%.
+• Engineered REST APIs with CORS support, enhancing cross-origin reliability by 30%.
+• Designed API mappings to streamline data flow across services.
+• Built reusable UI components including progress indicators, dynamic dropdowns, and variable-driven elements.
+Software Developer Intern – Coding Ninjas May 2025 – Aug 2025
+• Developed SalesTwin AI, an AI-powered digital twin system for simulating human-like sales interactions and assisting
+users with course inquiries.
+• Integrated Whisper AI for real-time voice recognition and transcription to enable seamless user communication.
+• Implemented YOLO-based video analysis for user engagement detection and contextual interaction enhancement.
+• Built backend APIs and processing pipelines to support real-time AI inference and scalable communication workflows.
+Technical Skills
+Languages: C++, Python, SQL, JavaScript, HTML, CSS, Bootstrap
+Technologies: AWS, GCP, GenAI, AI/ML, MERN Stack, Power BI, DBMS, REST APIs, Git/GitHub
+Frameworks & Libraries: React.js, Node.js, Express.js, MongoDB, Flask, FastAPI, Tailwind CSS, Hugging Face
+Transformers, YOLO, Whisper AI, Claude AI, Mongoose Software
+Core Skills: Data Structures, OOPS, SDLC, OS, NLP, Machine Learning, Dataset Curation, Problem Solving
+Projects
+CodeRX – AI Mental Health & Coding Assistant (2025)
+Live Demo: coderx-s697.onrender.com
+• Engineered a MERN Stack platform that provides AI-driven emotional support and coding guidance.
+• Implemented an AI-powered chatbot using Hugging Face Transformers for Q&A, curated resources, and motivational
+prompts.
+• Designed “Genie” – a proprietary AI code generation and debugging assistant orchestrating multiple AI APIs.
+• Developed secure backend APIs for user management, forums, and detailed performance analytics.
+Connected Burglar Alarm System (Patented) (2024)
+• Invented an IoT-enabled security solution combining AI-driven video/audio threat detection with real-time alerting.
+• Leveraged Whisper AI for voice recognition and YOLO for instant face/object detection.
+• Delivered a live monitoring dashboard integrated with IoT devices for seamless surveillance.
+• Secured a patent filing for innovative AI–IoT methodology.
+Certifications & Achievements
+• Amazon Cloud Practitioner | Google Cloud Digital Leader | Microsoft Power BI Data Analyst
+• LeetCode Rating: 1534 | Codeforces Rating: 1003 (Pupil)
+• Patent Filed for AI-based Burglar Alarm Security System
+Languages
+English, Hindi
+
+Tell me about yourself.
+Hi, I'm Ayush Gautam. I recently completed my B.Tech in Information Technology from VIT with a CGPA of 8.79. I'm currently working as a Software Developer at Mongoose, where I contribute to building scalable applications and delivering features for enterprise clients. Over the past few years, I've worked extensively with React, Node.js, REST APIs, AI technologies, and cloud platforms. I enjoy building products that solve real-world problems, especially at the intersection of software engineering and artificial intelligence. Beyond academics and work, I'm passionate about continuous learning, exploring emerging technologies, and challenging myself with ambitious projects.
+
+Where did you grow up?
+I grew up in Patna, Bihar from around my 8th standard onwards. Before that, I lived in Rewa, Madhya Pradesh. Growing up in two different cities exposed me to different environments and perspectives, which helped me become adaptable and comfortable working with people from diverse backgrounds.
+
+What kind of child were you?
+I was always a very curious and visionary child. While most kids were focused on the present, I often found myself thinking about bigger ideas and imagining what the future could look like. I was fascinated by innovation, entrepreneurship, and the idea of building something impactful. Even at a young age, I dreamed of creating products, companies, or technologies that could make a meaningful difference.
+
+What got you interested in technology?
+Technology fascinated me because it felt like a superpower. I was amazed by how software could solve complex problems and impact millions of people. The more I explored computers, applications, and emerging technologies, the more curious I became about how things worked behind the scenes. Over time, that curiosity evolved into a passion for building things myself rather than just using them.
+
+Why did you choose Information Technology?
+I was a technology enthusiast from around 8th grade. I constantly followed new technological developments and was especially excited about future technologies and innovation. Information Technology felt like the perfect field because it would allow me to understand how modern systems are built while giving me opportunities to contribute to emerging technologies in the future.
+
+What achievement are you most proud of?
+One of my proudest achievements is filing a patent for a Connected Burglar Alarm System. The project combined AI, IoT, computer vision, and voice recognition to create a smart security solution capable of detecting threats and generating real-time alerts. It was rewarding because it brought together multiple technologies into a single practical product and demonstrated my ability to turn an idea into something innovative.
+
+What challenge has shaped you the most?
+One of the biggest challenges that shaped me was working across different teams, projects, and work environments. Every project comes with different expectations, communication styles, technical requirements, and constraints. Learning how to adapt quickly, collaborate effectively, and continue delivering results despite changing circumstances taught me resilience, flexibility, and professional maturity.
+
+What are your top 3 strengths?
+First, I learn quickly. Whenever I encounter a new technology or domain, I enjoy diving deep and becoming productive rapidly.
+
+Second, adaptability. I've worked across different projects, teams, and technologies, which has made me comfortable with change.
+
+Third, ownership. When I take responsibility for something, I focus on delivering it properly and seeing it through to completion.
+
+What is your biggest weakness?
+Earlier in my career, I sometimes spent too much time perfecting details because I wanted everything to be as polished as possible. Over time, I've learned to balance quality with practicality and focus on delivering value efficiently while still maintaining high standards.
+
+What misconception do coworkers have about you?
+Some people initially think I'm quiet or reserved because I tend to observe and understand situations before speaking. However, once I become comfortable with a team, I'm highly collaborative, proactive, and actively contribute ideas and solutions.
+
+How would your friends describe you?
+My friends would probably describe me as ambitious, dependable, and curious. I'm usually the person exploring new opportunities, learning new technologies, or encouraging others to think bigger about their goals.
+
+How would your manager describe you?
+I believe my manager would describe me as someone who is reliable, adaptable, and willing to learn. I'm comfortable taking ownership of tasks, handling unfamiliar challenges, and continuously improving my skills to contribute more effectively.
+
+What motivates you?
+I'm motivated by growth and impact. I enjoy learning new skills, solving meaningful problems, and building products that create value for users. Seeing an idea evolve into a working solution is incredibly satisfying.
+
+What frustrates you?
+What frustrates me most is avoidable inefficiency. I enjoy working in environments where people communicate clearly, take ownership, and continuously improve processes.
+
+What values are non-negotiable for you?
+Integrity, accountability, continuous learning, and respect for others. I believe trust is built through consistency, honesty, and delivering on commitments.
+
+How do you approach learning something new?
+I start by understanding the fundamentals, then quickly move into hands-on implementation. I learn best by building projects, experimenting, and solving real-world problems rather than only consuming theory.
+
+Do you prefer working alone or in teams?
+I enjoy both. I like individual work when deep focus is required, but I also value teamwork because diverse perspectives often lead to better solutions.
+
+How do you handle deadlines?
+I break large tasks into smaller milestones, prioritize effectively, and communicate proactively if challenges arise. Consistency and planning help me stay on track.
+
+How do you deal with ambiguity?
+I gather available information, make reasonable assumptions, and move forward while validating my approach along the way. Waiting for perfect clarity often slows progress.
+
+What are the top 3 areas you'd like to grow in?
+Building and scaling AI agents and autonomous systems.
+
+System design and large-scale software architecture.
+
+Product thinking and understanding user behavior more deeply.
+
+Where do you see yourself in 5 years?
+I see myself building impactful AI-driven products, taking on greater technical ownership, and contributing to solving challenging real-world problems through technology.
+
+Why are you interested in AI agents?
+AI agents represent a shift from software that simply responds to software that can reason, plan, and take actions. I find that transformation incredibly exciting because it opens up possibilities for creating far more useful and intelligent systems.
+
+Tell me about a failure.
+Early in my professional career, I missed the deadline for my first company project by two days due to a family situation. I felt responsible because I take commitments seriously. After that experience, I put in additional effort, including working on a couple of weekends, to make up for the delay and ensure the project was completed successfully. It taught me the importance of proactive communication, contingency planning, and taking ownership even when circumstances are difficult.
+
+Tell me about a project you're most proud of.
+One project I'm particularly proud of is Barton Associates' Locum Connect. I had the opportunity to contribute significant features and improvements that enhanced application responsiveness and overall user experience. It was rewarding because the work directly impacted a real product used by real users, and it allowed me to collaborate across teams while solving practical engineering challenges.
+
+Tell me about a time you learned something quickly.
+A good example is Generative AI. Although my primary role was software development, I became deeply interested in AI systems and quickly learned about large language models, prompt engineering, chatbots, voice bots, and AI workflows. Within a relatively short period, I was able to build AI-powered applications and contribute solutions involving conversational AI, demonstrating my ability to adapt and learn emerging technologies rapidly.
+
+What's your #1 superpower?
+My biggest superpower is my ability to learn quickly and adapt. Whether it's a new technology, framework, domain, or challenge, I'm able to get up to speed rapidly and start creating value in a relatively short amount of time.
+
+How do you push your boundaries and limits?
+I intentionally take on projects that are slightly beyond my current comfort zone. Growth happens when you're challenged, so I actively seek opportunities that force me to learn new technologies, solve unfamiliar problems, and expand my capabilities.
+
+
+
+What is your current primary project at Mongoose?
+Currently, I'm working on Florida Blue, also known as GuideWell Healthcare's public website. It's a large-scale healthcare platform, and my work involves building features, integrating APIs, and improving the overall user experience while collaborating closely with both internal teams and clients.
+
+What exactly is Barton Associates Locum Connect?
+Barton Associates Locum Connect is a job portal designed for doctors and healthcare professionals. It helps medical workers discover opportunities, manage assignments, submit timesheets and expenses, and stay connected throughout the hiring process.
+
+What features have you personally worked on?
+I've worked on integrating Timesheets and Expenses, building AI chatbot functionality, and implementing APIs for job requests, assignments, and extensions. A big part of my role was making these workflows seamless for users while ensuring the system remained scalable and maintainable.
+
+What technologies do you use daily?
+I primarily work with React, JavaScript, REST APIs, CMS platforms, Supabase, Node.js, and various cloud-based tools. Recently, I've also spent a lot of time working with AI technologies, chatbots, and Generative AI workflows.
+
+What is the most challenging thing you've built there?
+One of the most challenging features was the Timesheets and Expenses module. It involved multiple container structures, custom workflows, and several different progress indicators. There were many edge cases to handle, so it required a lot of problem-solving and attention to detail.
+
+Do you work mostly on frontend, backend, or full stack?
+I work as a full-stack developer. While a significant portion of my work involves frontend development, I also work with APIs, backend integrations, databases, and AI-powered features.
+
+How many people are on your team?
+My team consists of around seven people, and I collaborate closely with developers, project managers, and client stakeholders.
+
+What's something you learned at Mongoose that college never taught you?
+Mongoose taught me professionalism in a way college never could. I learned how to work directly with international clients, manage real deadlines, communicate effectively in professional environments, and take ownership of delivering production-ready solutions.
+
+Before your current project, did you work on any other projects at Mongoose?
+Yes. Before my current project, I worked on healthcare-related projects for Amazon AWS and Pfizer. Those experiences helped me understand enterprise-scale applications and client expectations.
+
+Have you built any AI-related tools internally?
+Yes. I built and integrated a chatbot for Mongoose's AI Builder platform. The chatbot was designed to help users understand the platform and access relevant information more efficiently.
+
+Have you worked directly with clients?
+Yes. I've worked directly with clients across multiple projects. In fact, I started attending client meetings from day one, which significantly improved my communication skills, confidence, and understanding of business requirements.
+
+What's the biggest production issue you've solved?
+One memorable challenge involved identifying and fixing a core issue while coordinating closely with the client. The solution required working across CMS systems and Supabase integrations, and it taught me the importance of debugging systematically and communicating effectively under pressure.
+
+What's your favorite project at Mongoose and why?
+Barton Associates is definitely my favorite project. It went through multiple phases, had a large budget, and I had the opportunity to contribute heavily both as a builder and a software developer. It was rewarding because I could see my work making a real impact on a large-scale product.
+
+Which technology did you have to learn the fastest?
+Generative AI. I became interested in it very quickly and started learning about LLMs, prompt engineering, chatbots, voice bots, and AI workflows. Within a short period, I was able to build practical AI-powered solutions and apply them in real projects.
+
+Tell me about a bug that took a long time to fix.
+One bug involved a custom progress bar component. Standard linear and circular progress bars were straightforward, but this particular design required a completely custom shape. It took a lot of experimentation and debugging before I got the behavior and visuals exactly right.
+
+What's the most complex API integration you've done?
+The Timesheets and Expenses integration was probably the most complex. It involved multiple workflows, validations, and system dependencies. What made it particularly interesting was that a previous partner had spent years trying to perfect similar functionality, while our team successfully delivered it within a much shorter timeline.
+
+Have you built any chatbots?
+Yes. I've built chatbots both professionally and personally. One of them is currently being used within Mongoose's production environment, and I've also built AI-powered chatbots and voice bots as side projects.
+
+Questions You Didn't Answer (Good Responses)
+Have you built any voice bots?
+Yes. I've built voice-enabled AI applications that combine speech-to-text, language models, and text-to-speech technologies. I enjoy voice interfaces because they make AI interactions feel much more natural and accessible.
+
+What's your experience with LLMs?
+I've worked with LLMs through chatbot development, prompt engineering, AI assistants, and conversational applications. I've experimented with models from OpenAI, Anthropic, Hugging Face, and Google's ecosystem while building practical AI solutions.
+
+What's the difference between a chatbot and an AI agent?
+A chatbot mainly responds to user inputs, while an AI agent can reason, plan, remember context, and take actions to accomplish goals. Agents are more autonomous and capable of handling multi-step tasks.
+
+If we asked you to build an AI agent next week, how would you approach it?
+I'd first understand the problem and define the agent's responsibilities. Then I'd design the workflow, identify required tools and integrations, build a simple version quickly, and iterate based on testing and feedback. I believe in getting something functional into users' hands early and improving it over time.
+
+Why should we hire you?
+I bring a combination of software engineering experience, adaptability, and a genuine interest in AI. I'm comfortable learning quickly, working directly with clients, taking ownership, and delivering solutions that create real value.
+
+What makes you different from other candidates?
+I think my ability to move between traditional software development and AI-related work sets me apart. I enjoy learning new technologies quickly and applying them to practical business problems rather than treating them as purely academic exercises.
+
+What are you currently learning?
+Right now, I'm spending a lot of time exploring AI agents, advanced prompting techniques, voice AI systems, and how AI can be integrated into real-world products to improve user experiences.
+
+Tell me about an achievement you're proud of.
+I'm proud of a few milestones. During my time at Coding Ninjas, I was promoted to Assistant Team Lead shortly after completing my internship, which gave me confidence in my ability to take ownership early on. At Mongoose, I was trusted with my first national rollout project — the Amazon AWS Healthcare portal — just around 15 days after completing my training. Since then I've contributed to Amazon AWS Healthcare, Pfizer Healthcare, Barton Associates, and Florida Blue/GuideWell Healthcare. These experiences taught me that consistent learning, ownership, and delivering results create opportunities faster than expected.
+
+Why do you think you've been trusted with important projects?
+I think it comes down to adaptability and ownership. Whenever I'm given a new challenge, I try to understand the problem quickly, communicate clearly, and take responsibility for delivering results. Over time, that helped build trust with both my team and clients, which led to opportunities to work on larger and more impactful projects.
+
+What's your biggest professional strength?
+My biggest professional strength is learning quickly and adapting to new environments. Whether it was healthcare platforms, Generative AI, chatbot development, or enterprise applications, I've been able to get up to speed quickly and contribute effectively.
+
+Why should we hire you?
+I bring a combination of strong software engineering skills, curiosity, and ownership. I've worked directly with international clients, contributed to large-scale healthcare platforms, learned new technologies quickly, and delivered solutions across multiple projects. I enjoy solving challenging problems and continuously improving both technically and professionally.
+
+What makes you different from other candidates?
+One thing that differentiates me is my ability to move quickly from learning to execution. Whether it was earning additional responsibilities early in my career, contributing to major healthcare projects shortly after joining Mongoose, or rapidly learning Generative AI and building chatbots and voice bots, I've consistently demonstrated the ability to adapt and deliver.
+
+Do you have any questions for us?
+Yes, I'd love to learn more. What does a typical day look like for someone on the AI Agent team? What are some of the biggest technical challenges the team is currently working on? How do successful team members usually grow within the company? And what excites you most about the future direction of the team and the product? Thank you for taking the time to speak with me — I've really enjoyed the conversation.

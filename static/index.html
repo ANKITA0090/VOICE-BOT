@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Talk to Ayush</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header class="header">
+    <span class="header-logo">Ayush AI</span>
+    <span class="header-title">Talk to Ayush</span>
+  </header>
+
+  <!-- MAIN -->
+  <main class="main">
+
+    <!-- LEFT — orb + status + buttons -->
+    <section class="left">
+      <div class="orb-wrap">
+        <div class="orb" id="orb"></div>
+        <canvas id="orbCanvas" class="orb-canvas"></canvas>
+      </div>
+      <p class="status" id="status">Tap to start</p>
+      <div class="btn-group">
+        <button class="start-btn" id="startBtn">Start Conversation</button>
+        <button class="stop-btn hidden" id="stopBtn">⏹ End</button>
+      </div>
+    </section>
+
+    <!-- RIGHT — transcript -->
+    <section class="right">
+      <div class="transcript-header">
+        <span>Conversation</span>
+        <button class="download-btn hidden" id="downloadBtn" title="Download transcript">↓ Download</button>
+      </div>
+      <div class="transcript" id="transcript">
+        <p class="empty-hint">Your conversation will appear here...</p>
+      </div>
+    </section>
+
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
