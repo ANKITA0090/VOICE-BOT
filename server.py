@@ -49,7 +49,9 @@ async def handle(browser: WebSocket):
         return
 
     try:
+        print(f"[DEBUG] Connecting to OpenAI: {WS_URL}")
         async with ws_connect(WS_URL, additional_headers={"Authorization": f"Bearer {api_key}"}) as openai:
+            print("[DEBUG] Connected to OpenAI")
 
             # Configure session
             await openai.send(json.dumps({
@@ -77,16 +79,20 @@ async def handle(browser: WebSocket):
                 },
             }))
 
+            print("[DEBUG] Session update sent, waiting for confirmation...")
             # Wait for session confirmation
             async for raw in openai:
                 evt = json.loads(raw)
+                print(f"[DEBUG] OpenAI event: {evt.get('type')} — {str(evt)[:200]}")
                 if evt.get("type") == "session.updated":
                     break
                 if evt.get("type") == "error":
+                    print(f"[ERROR] OpenAI session error: {evt}")
                     await browser.send_json({"type": "error", "message": evt["error"]["message"]})
                     return
 
             await browser.send_json({"type": "ready"})
+            print("[DEBUG] Ready sent to browser")
 
             # ── Task 1: browser mic → OpenAI ──────────────────────────────
             async def mic_to_openai():
