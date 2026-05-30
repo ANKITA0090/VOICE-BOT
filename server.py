@@ -142,6 +142,7 @@ async def handle(browser: WebSocket):
     except WebSocketDisconnect:
         pass
     except Exception as e:
+        print(f"[ERROR] WebSocket handler failed: {type(e).__name__}: {e}")
         try:
             await browser.send_json({"type": "error", "message": str(e)})
         except Exception:
