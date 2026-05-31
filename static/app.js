@@ -87,7 +87,7 @@ function onMessage(ev) {
       break;
 
     case 'speech_started':
-      nextPlayTime = 0;
+      nextPlayTime = 0; // reset playback schedule so old audio stops
       setState('listening');
       setStatus('Listening...');
       currentYouEl = addMessage('you', '');
@@ -183,10 +183,11 @@ function playChunk(b64) {
   src.buffer = buf;
   src.connect(audioCtx.destination);
 
-  const now  = audioCtx.currentTime;
-  const at   = Math.max(nextPlayTime, now + 0.04);
-  src.start(at);
-  nextPlayTime = at + buf.duration;
+  // Schedule seamlessly — no gap between chunks, no initial delay
+  const now = audioCtx.currentTime;
+  if (nextPlayTime < now) nextPlayTime = now; // reset if we fell behind
+  src.start(nextPlayTime);
+  nextPlayTime += buf.duration;
 }
 
 /* ── UI helpers ──────────────────────────────────────────────────────────── */

@@ -78,8 +78,8 @@ Short, clean sentences. Real rhythm. No lists, no bullet points. Sound like a pe
 # ─────────────────────────────────────────────
 REALTIME_MODEL = "gpt-realtime-2025-08-28"  # used by realtime.py
 LLM_MODEL      = "gpt-4o-mini"                   # used by run.py fallback mode
-TTS_VOICE      = "ash"     # MALE voices: ash | echo | onyx | fable | verse — ash is natural male
-TTS_SPEED      = 1.0       # 1.0 = natural pace (keeping default to avoid voice distortion)
+TTS_VOICE      = "echo"    # MALE voices: echo | onyx | ash | verse — echo is the most natural male
+TTS_SPEED      = 1.0       # keep at 1.0 — any change causes robotic distortion
 
 # ─────────────────────────────────────────────
 # TEMPERATURE  (0.0 = focused/factual  →  1.0 = creative/varied)
@@ -97,7 +97,7 @@ MEMORY_WINDOW = 10  # number of past messages to remember
 # ─────────────────────────────────────────────
 VAD_THRESHOLD       = 0.5   # 0.0–1.0  sensitivity (lower = picks up quieter voice)
 VAD_PREFIX_MS       = 300   # ms of audio kept before speech starts
-VAD_SILENCE_MS      = 2000  # ms of silence before bot responds (2 sec natural pause before answering)
+VAD_SILENCE_MS      = 800   # ms of silence before bot responds (800ms = natural professional pause)
 
 # ─────────────────────────────────────────────
 # RAG / KNOWLEDGE BASE (ingest.py + chain.py)
